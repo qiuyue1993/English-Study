@@ -1,25 +1,25 @@
 ## Day 1
 
-**crev**
-de
-dis
-**juven**
-sur
-mari
-pre
-radi
-sol
-tend
+- **crev**
+- de
+- dis
+- **juven**
+- sur
+- mari
+- pre
+- radi
+- sol
+- tend
 
 ## Day 2
 
-abili
-cord
-**ceive**
-ign
-inter
-leg
-liter
-**mon**
-**mut**
-**para**
+- abili
+- cord
+- **ceive**
+- ign
+- inter
+- leg
+- liter
+- **mon**
+- **mut**
+- **para**
