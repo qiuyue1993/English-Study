@@ -1,1 +1,172 @@
+## Day 2
+
+- ability
+- capacity
+- **liability**
+- reliability
+- accord
+- agreement
+- **concord**
+- additive
+- affection
+- fondness
+- influence
+- **alike**
+- **alikeness**
+- alternately
+- **alternately spaced**
+- **behaviorism**
+- biologist
+- **anthropologist**
+- **archaeologist**
+- sociologist
+- budget
+- calendar
+- **coil**
+- colleague
+- composer
+- composition
+- mineral composition
+- decomposition
+- dairy
+- dairy product
+- **dairy cattle**
+- dairy farming
+- deadline
+- deal
+- transaction
+- a good deal of
+- deal with
+- deal in
+- deceive
+- trick
+- **deceptive**
+- distant
+- instant
+- dramatic
+- **striking**
+- **theatrical**
+- dramatically
+- erosion
+- **corrosion**
+- explosive
+- **forestall**
+- **fume**
+- **igneous**
+- **immutable**
+- unchangeable
+- **impetus**
+- impulse
+- indicate
+- industry
+- intelligence
+- **intelligencer**
+- intelligence quotient
+- interpret
+- comprehend
+- intriguing
+- fascinating
+- attractive
+- justify
+- **legislative**
+- **legitimate**
+- **literacy**
+- **locomotion**
+- longitude
+- longitude zone
+- attitude
+- latitude
+- altitude
+- lower
+- **inferior**
+- **lowering**
+- marked
+- noticeable
+- pronounced
+- **modulate**
+- temper
+- adjust
+- monarch
+- ruler
+- emperor
+- **monarchy**
+- **motto**
+- **proverb**
+- mutual
+- joint
+- mutually
+- overall
+- overlook
+- look over
+- parallel
+- **unparalleled**
+- **paramount**
+- **foremost**
+- participant
+- **pendant**
+- planet
+- planetary
+- plausible
+- **specious**
+- plot
+- clue
+- **precipitate**
+- **precipitation**
+- radiate
+- radiation
+- radial
+- radiant
+- **radiator**
+- **remnant**
+- remains
+- removal
+- **elimination**
+- renaissance
+- **revival**
+- retire
+- retirement
+- **retiree**
+- **rod**
+- salon
+- scar
+- **scar tissue**
+- **shipwright**
+- sloth
+- **slothful**
+- ground sloth
+- **solitary**
+- individual
+- specialize
+- **specialize in**
+- **specialization**
+- **specimen**
+- sample
+- **spectator**
+- audience
+- **splill**
+- overflow
+- state
+- condition
+- nation
+- province
+- **stately**
+- statement
+- stem
+- **trunk**
+- originate
+- string
+- string music
+- stringed
+- sturdy
+- stable
+- substantial
+- substatially
+- **substance**
+- **towering**
+- **toppiing**
+- versus
+- worth
+- wrap
+- make up
+- pack
 
