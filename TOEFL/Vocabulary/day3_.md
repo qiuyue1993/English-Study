@@ -99,4 +99,18 @@
 - **cruel**
 - force
 - violent
-
+- **flint**
+- **forefront**
+- freeze
+- **freeze over**
+- **freeze up**
+- **grind**
+- polish
+- crush
+- **groom**
+- heading
+- **horde**
+- crowd
+- **swarm**
+- inactive
+- **idle**
