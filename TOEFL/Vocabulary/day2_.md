@@ -4,7 +4,7 @@
 - capacity
 - **liability**
 - reliability
-- accord
+- **accord**
 - agreement
 - **concord**
 - additive
@@ -37,7 +37,7 @@
 - transaction
 - a good deal of
 - deal with
-- deal in
+- **deal in**
 - deceive
 - trick
 - **deceptive**
@@ -56,7 +56,7 @@
 - **immutable**
 - unchangeable
 - **impetus**
-- impulse
+- **impulse**
 - indicate
 - industry
 - intelligence
@@ -94,7 +94,7 @@
 - **proverb**
 - mutual
 - joint
-- mutually
+- **mutually**
 - overall
 - overlook
 - look over
@@ -143,7 +143,7 @@
 - sample
 - **spectator**
 - audience
-- **splill**
+- **spill**
 - overflow
 - state
 - condition
