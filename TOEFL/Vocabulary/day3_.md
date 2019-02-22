@@ -1,0 +1,102 @@
+## Day3
+
+- accent
+- discriminate
+- admit
+- let in
+- **admittedly**
+- **alkali**
+- **alkaline**
+- asymmetrical
+- authority
+- bargain
+- **bony**
+- **bonny**
+- brief
+- **fleeting**
+- **briefing**
+- briefly
+- **buddy**
+- **companion**
+- catastrophe
+- disaster
+- tragedy
+- **apostrophe**
+- classic
+- **a work of enduring excellence**
+- coarse
+- coal
+- communicate
+- convey
+- express
+- compare
+- compare with
+- **compare to**
+- **with compare**
+- **compel**
+- drive
+- **dispel**
+- impel
+- repel
+- **expel**
+- comprehend
+- grasp
+- **comprehensible**
+- comprehensive
+- concentrate
+- **concentrate on**
+- **concent**
+- approve
+- consideration
+- contrast
+- **folk**
+- **coordinate**
+- **harmonize**
+- cooperate
+- **copious**
+- count
+- **count on** 
+- **lose count (of)**
+- **crusade**
+- **perceive**
+- **democratic party**
+- cushion
+- air-cushion vehicle
+- **custom**
+- **custom duties**
+- **custom commissioner**
+- **customary**
+- detectable
+- apparent
+- draw
+- attract
+- **entice**
+- **edifice**
+- emphasize
+- stress
+- courage
+- engine
+- engineer
+- engineering
+- envelop 
+- envelope
+- surround
+- **encircle**
+- episode
+- **Glacial episode**
+- equation
+- external
+- exterior
+- fade
+- fade wary
+- disappear from
+- vanish
+- **wither**
+- fellowship
+- friendship
+- scholarship
+- fierce
+- **cruel**
+- force
+- violent
+
