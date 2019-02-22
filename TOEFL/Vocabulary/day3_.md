@@ -114,3 +114,64 @@
 - **swarm**
 - inactive
 - **idle**
+- **infest**
+- **be infested with**
+- **infestation**
+- interior
+- inner
+- inland
+- jog
+- Latin
+- mammal
+- **dehydrated**
+- **mammalian**
+- **melanin**
+- **nomadic**
+- **nomad**
+- notorious
+- be notorious for
+- parameter
+- **pathology**
+- phenomena
+- **phenomenal**
+- phenomenon
+- plaster
+- policy
+- insurance policy
+- **quench**
+- **extinguish**
+- **put out**
+- **slake**
+- quench one's thirst
+- quench a fire/flames
+- renew
+- reestablish
+- renewable
+- renewed
+- **renewal**
+- ripen
+- **ripener**
+- **roost**
+- **rule the roost**
+- **rooster**
+- salmon
+- script
+- writing
+- manuscript
+- sheer
+- **steep**
+- absolute
+- spiral
+- **helical**
+- coil
+- twist
+- spiral galaxy
+- staff
+- crew
+- **personnel**
+- steady
+- firm
+- constant
+- fixed
+
+
