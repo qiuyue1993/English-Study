@@ -20,3 +20,9 @@
 - **droids**
 - **obsolete**
 
+- **repercussion**
+- **workforce**
+- **ripple effect**
+- **turnover**
+- time frame
+
