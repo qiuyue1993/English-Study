@@ -23,3 +23,31 @@
 - **mon**
 - **mut**
 - **para**
+
+## Day 3
+
+- **mit**
+- pel
+- prehend
+- sent
+- ordin
+- **crus**
+- ex
+- in
+- para
+- super
+
+## Day 4
+
+- **tire**
+- **bust**
+- prehend
+- counter
+- deca
+- **duc**
+- homo
+- loc
+- maxim
+- **orn**
+
+
