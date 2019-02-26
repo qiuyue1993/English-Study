@@ -26,3 +26,10 @@
 - **turnover**
 - time frame
 
+- frankly
+- predictability
+- **run counter to** 
+- tariffs
+- fruitful
+- **pact**
+
