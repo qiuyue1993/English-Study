@@ -40,4 +40,17 @@
 - **Coliseum**
 - **bid**
 
+- **invest**
+- secretive
+- **deprive**
+- jurisdictions
+- Brexit vote
+- assertive
+- territory
+- lax
+- **exploit**
+- launder
+- urgently
+- tighten up
+
 
