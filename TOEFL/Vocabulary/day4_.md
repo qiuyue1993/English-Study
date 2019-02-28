@@ -1,3 +1,167 @@
 ## Day 4
 
+- adventure
+- adventurous
+- adventurer
+- **analogy**
+- **analogous**
+- apply
+- apply to 
+- apply for
+- applicant
+- appraisal
+- accessment
+- artifact
+- assure
+- **guarantee**
+- ensure
+- insure
+- **attire**
+- clothing
+- **attic**
+- biochemical
+- **Enzymes**
+- **catalyst**
+- **analyst**
+- cohesion
+- **cohesion-tension theory**
+- **combustible**
+- **flammable**
+- **blockbuster**
+- complain
+- complain about
+- complain to
+- counterpart
+- duplicate
+- data
+- decade
+- dimensional
+- diplomatic
+- diplomat
+- **disposal**
+- garbage disposal
+- get rid of
+- documentation
+- **ductile**
+- plastic
+- engage
+- engage in 
+- **unethical**
+- **engaged**
+- enrich
+- fertilize
+- enrichment
+- **epidemic**
+- evaporation
+- expertise
+- exploration
+- explore
+- probe for
+- exploratory
+- extension
+- **postponement**
+- supplement
+- **extensive**
+- **figurative**
+- **forage**
+- haunt
+- homogeneous
+- uniform
+- hurricane
+- cyclone
+- imply
+- chaotic
+- disturbance
+- **intoxication**
+- water intoxication
+- label
+- locate
+- situate
+- orient
+- logical
+- reasonable
+- maintenance
+- **upkeep**
+- manifest
+- indicate
+- manifestation
+- material
+- raw materials
+- mathematics
+- maximum
+- an upper limit
+- memo
+- **mold**
+- fungus
+- **clay**
+- neoclassical
+- original
+- aboriginal
+- ornament
+- decoration
+- **adornment**
+- ornamental
+- outline
+- profile
+- oyster
+- paddle
+- **paddler**
+- perception
+- perceive
+- perceptive
+- pretentious
+- **boastful**
+- proceed
+- puncture
+- **pierce**
+- **penetrate**
+- rebel
+- **rebellion**
+- rebellious
+- recall
+- recollect
+- relevance
+- penmanship
+- remains
+- resistant
+- be resistant to
+- pesticide
+- **rural**
+- **rustic**
+- sculpt
+- carve
+- sculptor
+- sculptural
+- selective
+- shrink
+- **dwindle**
+- **shrinkage**
+- **sledding**
+- spontaneous
+- **instinctive**
+- sticky
+- superficial
+- synthetic
+- synthetic product
+- throw
+- **fling**
+- trade
+- the drug trade
+- the slave trade
+- **make a trade**
+- **restraint of trade**
+- trace
+- undergraduate
+- vanish
+- **die out**
+- **venom**
+- venture
+- **venturesome**
+- **veto**
+- **pocket veto**
+- **veto message**
+- vibration
+- **sympathetic vibration**
+- **seismic wave**
+- **vicinity**
 
