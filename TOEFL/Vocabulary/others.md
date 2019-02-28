@@ -14,7 +14,7 @@
 - omnidirectional
 - versatile camera
 - **fidelity**
-- **schematic**
+- **schematic** 概要，议程； 概要的
 - word prefix
 - cloakroom
 - **droids**
