@@ -53,4 +53,17 @@
 - urgently
 - tighten up
 
+- divisive
+- set oneself apart
+- heal
+- divisions
+- divided
+- intense
+- **Electoral College**
+- sanity
+- **incumbent upon**
+- **repeal**
+- signature
+
+
 
