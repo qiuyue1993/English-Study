@@ -50,4 +50,15 @@
 - maxim
 - **orn**
 
+## Day 5
 
+- **ail**
+- simil
+- audi
+- **cred**
+- fin
+- note
+- **ert**
+- labor
+- **litho**
+- pose
