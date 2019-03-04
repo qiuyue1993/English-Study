@@ -42,7 +42,7 @@
 
 - **invest**
 - secretive
-- **deprive**
+- **deprive** 剥夺；夺取
 - jurisdictions
 - Brexit vote
 - assertive
@@ -62,7 +62,7 @@
 - **Electoral College**
 - sanity
 - **incumbent upon**
-- **repeal**
+- **repeal** 废除；废止；撤销
 - signature
 
 
