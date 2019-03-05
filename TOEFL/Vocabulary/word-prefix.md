@@ -62,3 +62,18 @@
 - labor
 - **litho**
 - pose
+
+## Day 6
+
+- **lev**
+- **celest**
+- **flagel**
+- cred
+- glaci
+- stitut
+- journ
+- sense
+- not
+- rupt
+
+
