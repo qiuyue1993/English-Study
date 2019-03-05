@@ -65,5 +65,10 @@
 - **repeal** 废除；废止；撤销
 - signature
 
+- Afghanistan
+- Persian
+- resettlement
+- keep a close eye on
+- **flee**
 
 
