@@ -1,2 +1,177 @@
 Day 5
 
+- ailment
+- sickness
+- illness
+- assimilate
+- assimilation
+- audio
+- **acoustic**
+- axis
+- cable
+- wire
+- **telegraph**
+- **chubby**
+- **plump**
+- skinny
+- slim
+- committee
+- council
+- commute
+- commuter
+- consult
+- **counsel**
+- refer to
+- insult
+- consultant
+- assault
+- **converse**
+- **corrosive**
+- **courageous**
+- cousin
+- **credential**
+- certificate
+- **diploma**
+- define
+- redefine
+- **confine**
+- **denote**
+- **connote**
+- notify
+- **detergent**
+- device
+- **allegory**
+- **conceal**
+- **devise**
+- dominant
+- predominant
+- **outweighing**
+- a dominant power in the world
+- dominant position
+- dominant philosophy
+- dominant theme
+- dominant in sth.
+- estimate
+- reckon
+- judge
+- underestimate
+- **excavation**
+- **facilitate**
+- impulse
+- fellow
+- colleague
+- foremost
+- leading
+- chief
+- **frenzy**
+- **fury**
+- **frenetic**
+- **friction**
+- **clash**
+- conflict
+- hardware
+- kitchenware
+- stoneware
+- **imprint**
+- engrave
+- **induce**
+- **educe**
+- **deduce**
+- inert
+- inert element
+- infection
+- intense
+- acute
+- intuitive
+- isolated
+- **secluded**
+- isolation
+- jelly
+- **jolt**
+- laboratory
+- **lament**
+- **leftover**
+- **lithosphere**
+- manufacture
+- opposed
+- **overhaul**
+- overtime
+- pack
+- **parcel**
+- pay
+- repay
+- perfect
+- perfection
+- **photodissociation**
+- pigeon
+- poetry
+- modern poetry
+- principle
+- fundamental
+- **principal**
+- principle
+- profound
+- promote
+- boost
+- advance
+- advertise
+- prompt
+- **accelerate**
+- propose
+- **reactor**
+- realization
+- **recession**
+- reliable
+- dependable
+- trustworthy
+- remarkable
+- **extraordinary**
+- **incredible**
+- **replenish**
+- supplement
+- response
+- responsive
+- revolution
+- **scurry**
+- sensible
+- preceptible
+- **advisable**
+- simulate
+- **sluggish**
+- soft
+- delicate
+- soften
+- squash
+- pumpkin
+- stuck
+- **get stuck**
+- subsequent
+- subsequently
+- consequent
+- **substantiate**
+- substantial
+- substantive
+- suburb
+- suburban
+- **suburbanite**
+- supreme
+- supreme court
+- **supremacy**
+- supremely
+- trace
+- **imprint**
+- vague
+- **obscure**
+- vaguely
+- vast
+- broad
+- extensive
+- in vast numbers
+- the vast majority
+- vastly
+- virus
+- visual
+- watercourse
+
+
+
