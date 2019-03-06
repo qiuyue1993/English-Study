@@ -71,4 +71,11 @@
 - keep a close eye on
 - **flee**
 
-
+- hit
+- globe
+- **whilst**
+- **halt**
+- across the globe
+- **ransomware**
+- **inadvertently**
+- stereotype
