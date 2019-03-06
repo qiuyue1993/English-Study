@@ -61,7 +61,7 @@
 - intense
 - **Electoral College**
 - sanity
-- **incumbent upon**
+- **incumbent upon** 有责任的
 - **repeal** 废除；废止；撤销
 - signature
 
@@ -77,6 +77,6 @@
 - **halt**
 - across the globe
 - **ransomware**
-- **inadvertently**
+- **inadvertently** 不经意的
 - stereotype
 - **criminal gangs**
