@@ -77,3 +77,14 @@
 - rupt
 
 
+## Day 7
+- alter
+- aqui
+- **awe**
+- card
+- cent
+- verge
+- ethn
+- femin
+- prim
+
