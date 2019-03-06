@@ -35,7 +35,7 @@
 
 
 - **legacy**
-- **grant**
+- **grant** 发放；准许；赐予
 - surplus
 - **Coliseum**
 - **bid**
