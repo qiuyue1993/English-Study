@@ -88,3 +88,13 @@
 - femin
 - prim
 
+
+## Day 8
+- ann
+- struct
+- term
+- **semin**
+- nutri
+- vi
+- magn
+
