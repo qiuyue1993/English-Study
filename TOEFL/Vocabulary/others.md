@@ -80,3 +80,10 @@
 - **inadvertently** 不经意的
 - stereotype
 - **criminal gangs**
+
+- **rhetoric**
+- **hatches**
+- **imminent**
+- **evacuation drills**
+- **relay over**
+- deploy
