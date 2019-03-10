@@ -1,0 +1,27 @@
+Day 9
+
+- access
+- **accredit**
+- authorize
+- commission
+- advanced
+- adverse
+- unfavorable
+- adverse effect
+- **adversity**
+- afford
+- provisions
+- annoying
+- appreciation
+- assembly
+- assembly line
+- benefit
+- **captivity**
+- **confinement**
+- championship
+- chilled
+- clue
+- column
+- **commemorate**
+- celebrate
+- honor
