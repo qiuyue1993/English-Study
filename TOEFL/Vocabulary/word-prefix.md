@@ -98,3 +98,14 @@
 - vi
 - magn
 
+## Day 9
+- bene
+- memor
+- cosm
+- spoil
+- **grad**
+- lumin
+- sist
+- micro
+- sub
+- terr
