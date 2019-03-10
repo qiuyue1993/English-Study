@@ -83,12 +83,12 @@
 
 - **rhetoric**
 - **hatches**
-- **imminent**
-- **evacuation drills**
+- **imminent** 即将来临
+- **evacuation drills** 疏散演习
 - **relay over**
 - deploy
 
-- **detain**
+- **detain** 拘留；扣押；看押
 - **mobility**
 - **restrictions**
 - **lifting**
