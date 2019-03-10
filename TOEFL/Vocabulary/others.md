@@ -87,3 +87,9 @@
 - **evacuation drills**
 - **relay over**
 - deploy
+
+- **detain**
+- **mobility**
+- **restrictions**
+- **lifting**
+
