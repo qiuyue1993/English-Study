@@ -60,7 +60,7 @@
 - divided
 - intense
 - **Electoral College**
-- sanity
+- sanity 明智
 - **incumbent upon** 有责任的
 - **repeal** 废除；废止；撤销
 - signature
@@ -93,3 +93,12 @@
 - **restrictions**
 - **lifting**
 
+- arsenals
+- **procure**
+- exemplify
+- indiscriminately
+- **civilians**
+- **knock-on effect**
+- **incentive** 激励
+- **flaw** 
+- **treaty**
