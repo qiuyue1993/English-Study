@@ -109,3 +109,14 @@
 - micro
 - sub
 - terr
+
+## Day 10
+- tribute
+- junct
+- manu
+- mel
+- popul
+- rod
+- pose
+- vig
+- voc
