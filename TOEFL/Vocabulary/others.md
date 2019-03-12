@@ -102,3 +102,19 @@
 - **incentive** 激励
 - **flaw** 
 - **treaty**
+
+- lit up
+- pour out
+- **rallying cry**
+- **solidarity**
+- victims
+- widening
+- disgraced
+- accusation
+- encounter
+- **consensual**
+- outrage
+- **oust**
+- **implication**
+- **incident**
+- inclusive
