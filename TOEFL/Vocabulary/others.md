@@ -94,7 +94,7 @@
 - **lifting**
 
 - arsenals
-- **procure**
+- **procure** 促成；买；搜罗
 - exemplify
 - indiscriminately
 - **civilians**
