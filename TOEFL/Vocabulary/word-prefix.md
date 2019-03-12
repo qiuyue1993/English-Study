@@ -120,3 +120,15 @@
 - pose
 - **vig**
 - voc
+
+## Day 11
+- plaud
+- fer
+- cept
+- dict
+- act
+- **curs**
+- gene
+- psycho
+- re
+- seg
