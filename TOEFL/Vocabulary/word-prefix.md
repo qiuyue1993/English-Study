@@ -132,3 +132,15 @@
 - psycho
 - re
 - seg
+
+## Day 12
+- nounce
+- auct
+- corp
+- pict
+- in
+- **trepid**
+- **tric**
+- local
+- mono
+- **nav**
