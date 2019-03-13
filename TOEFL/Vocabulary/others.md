@@ -118,3 +118,14 @@
 - **implication**
 - **incident**
 - inclusive
+
+- **correspondent**
+- celebrity
+- midist
+- unlikely
+- **whirlwind**
+- Liberia
+- **janitor**
+- embark on
+
+
