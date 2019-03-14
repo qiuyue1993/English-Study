@@ -129,3 +129,11 @@
 - embark on
 - **churchgoers**
 
+- **get underway**
+- put on
+- talk up
+- **delegate**
+- entrepreneurship
+- deserve
+- **dig into**
+- **soak up**
