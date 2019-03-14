@@ -1,3 +1,87 @@
 Day 12
 
-- 
+- addition
+- additive
+- address
+- adhesive
+- **advisable**
+- **alchemist**
+- announce
+- **proclaim**
+- notify
+- auction
+- cellist
+- cereal
+- check
+- **check up on**
+- commit
+- promise
+- **obligate**
+- **complacence**
+- satisfaction
+- compress
+- **condense**
+- shorten
+- compressed
+- compression
+- compressible
+- compute
+- reckon
+- construction
+- instruction
+- **corps**
+- depict
+- portray
+- depiction
+- **eminent**
+- distinguished
+- imminent
+- **prominent**
+- fantasy
+- imagination
+- illusion
+- fascinating
+- fashionable
+- flu
+- **come down with flu**
+- catch a flu
+- **glossy**
+- **granite**
+- **marble**
+- **graphite**
+- **guarantee**
+- **pledge**
+- assure
+- **hazard**
+- **herald**
+- **foreshadow**
+- **hockey**
+- humid
+- damp
+- **wettish**
+- identify
+- illustration
+- **incongruity**
+- incompatibility
+- disharmony
+- inner
+- **intrepid**
+- **intricate**
+- locality
+- **nomadic**
+- **luster**
+- **magnesium**
+- modify
+- alter
+- modified
+- modification
+- **monotonous**
+- **tedious**
+- motivate
+- **stimulate**
+- impel
+- inspire
+
+
+
+
