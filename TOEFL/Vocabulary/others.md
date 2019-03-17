@@ -137,3 +137,12 @@
 - deserve
 - **dig into**
 - **soak up**
+
+- lifetime
+- **democratize**
+- **to that end**
+- startup
+- deter
+- **kidnapping**
+- invaluable
+
