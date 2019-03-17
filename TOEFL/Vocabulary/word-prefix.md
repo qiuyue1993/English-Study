@@ -144,3 +144,13 @@
 - local
 - mono
 - **nav**
+
+## Day 13
+- ment
+- **gnos**
+- frig
+- hemi
+- pharma
+- sanct
+- multi
+
