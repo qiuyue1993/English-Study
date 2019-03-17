@@ -43,7 +43,7 @@
 - **invest**
 - secretive
 - **deprive** 剥夺；夺取
-- jurisdictions
+- jurisdictions 司法管辖区；权力；裁判权；司法权
 - Brexit vote
 - assertive
 - territory
