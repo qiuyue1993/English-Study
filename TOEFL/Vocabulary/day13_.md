@@ -1,3 +1,58 @@
 Day 13
 
-- 
+- addictive
+- **Marijuana**
+- agency
+- **airborne**
+- alien
+- **anxious**
+- eager
+- keen
+- atmosphere
+- attractive
+- **tempting**
+- **appealing**
+- **inviting**
+- **intriguing**
+- audience
+- **spectator**
+- **bark**
+- beverage
+- bold
+- **daring**
+- care
+- comment
+- common
+- common sense
+- in common
+- **comply**
+- **conform**
+- **comprise**
+- consist of
+- **compromise**
+- **conceal**
+- **conduct**
+- **transmit**
+- contour
+- crab
+- **crumple**
+- **crumple up**
+- **uncrumple**
+- **depot**
+- **deserted**
+- diagnose
+- **dilate**
+- **dilute**
+- **diversification**
+- dot
+- effective
+- **expressly**
+- facility
+- instrument
+- field
+- field study
+- **finch**
+- **frigid**
+- freezing
+- **furnace**
+- blast furnace
