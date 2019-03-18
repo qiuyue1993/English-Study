@@ -38,7 +38,7 @@ Day 13
 - **crumple**
 - **crumple up**
 - **uncrumple**
-- **depot**
+- **depot** 仓库；车站
 - **deserted**
 - diagnose
 - **dilate**
@@ -46,7 +46,7 @@ Day 13
 - **diversification**
 - dot
 - effective
-- **expressly**
+- **expressly** 专门；明白地；明确地
 - facility
 - instrument
 - field
@@ -56,3 +56,84 @@ Day 13
 - freezing
 - **furnace**
 - blast furnace
+- gasoline
+- **petrol**
+- generalize
+- conclude
+- sum up
+- given
+- specified
+- supposed
+- **hay**
+- hemishpere
+- western hemisphere
+- **hieratic**
+- imitation
+- mock
+- the illegal imitation
+- immature
+- impressive
+- stunning
+- **inheritance**
+- heritage
+- interactive
+- **intercourse**
+- lace
+- lattitude
+- lay
+- **legislature**
+- march
+- **marvel**
+- marvelous
+- metric
+- **metropolitan**
+- modeling
+- monitor
+- regulate
+- **multiply**
+- **breed**
+- multiplication
+- **mythical**
+- **legendary**
+- offspring
+- **descendant**
+- pamphlet
+- booklet
+- brochure
+- pause
+- suspend
+- **petition**
+- **petroleum**
+- **pharmacy**
+- drugstore
+- preserve
+- preservation
+- well-preserved
+- priority
+- privilege
+- puzzle
+- **riddle**
+- jigsaw puzzle
+- be puzzled by
+- puzzlement
+- recognition
+- social recognition
+- **recurring**
+- repeated
+- recurrent
+- **repetitious**
+- **refraction**
+- **retreat**
+- reveal
+- **disclose**
+- **sanctuary**
+- natural sanctuary
+- sketch
+- **stanza**
+- **substantive**
+- substantial
+- target
+- unity
+- **unravel**
+- **veil**
+- draw a veil over sth.
