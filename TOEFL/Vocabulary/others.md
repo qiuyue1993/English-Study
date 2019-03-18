@@ -136,7 +136,7 @@
 - entrepreneurship
 - deserve
 - **dig into**
-- **soak up**
+- **soak up** 吸收；(使)充满；大量而迅速地吸收
 
 - lifetime
 - **democratize**
