@@ -146,3 +146,11 @@
 - **kidnapping**
 - invaluable
 
+- **safeguard**
+- identity
+- **bracelet**
+- **vial**
+- implant
+- thumb
+- index finger
+- exchange
