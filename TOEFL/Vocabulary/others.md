@@ -140,7 +140,7 @@
 
 - lifetime
 - **democratize**
-- **to that end**
+- **to that end** 为此目的
 - startup
 - deter
 - **kidnapping**
