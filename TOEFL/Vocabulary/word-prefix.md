@@ -154,3 +154,13 @@
 - sanct
 - multi
 
+## Day 14
+- absent
+- **dia**
+- cave
+- sign
+- fract
+- volve
+- optim
+- pend
+
