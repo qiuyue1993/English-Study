@@ -1,3 +1,31 @@
 Day 14
 
--
+- **abrasion**
+- bead
+- **absenteeism**
+- **habitual**
+- **acclaim**
+- applaud
+- praise
+- astronomy
+- astronomer
+- boundary
+- **brass**
+- candidate
+- nominee
+- **coincide**
+- coincidence
+- coincident
+- colony
+- settlement
+- colonial
+- **comic**
+- laughable
+- comprehensive
+- **concave**
+- concave lens
+- cooperation
+- be in cooperative with
+- curious
+- **inquisitive**
+- a curious glance
