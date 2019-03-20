@@ -154,3 +154,12 @@
 - thumb
 - index finger
 - exchange
+
+- failed
+- **meager**
+- livestock
+- crops
+- **famine**
+- **drought**
+- rainfall
+- **flawed**
