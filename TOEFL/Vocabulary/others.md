@@ -163,3 +163,12 @@
 - **drought**
 - rainfall
 - **flawed**
+
+- **cuddly**
+- seal
+- **limb**
+- **paralysis**
+- treadmill
+- **harness**
+- **gait**
+- steep
