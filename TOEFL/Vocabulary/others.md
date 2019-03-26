@@ -172,3 +172,9 @@
 - **harness**
 - **gait**
 - steep
+
+- **clog**
+- smog
+- **enact**
+- **foremost**
+- **in terms of**
