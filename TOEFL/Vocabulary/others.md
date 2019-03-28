@@ -178,3 +178,14 @@
 - **enact**
 - **foremost**
 - **in terms of**
+
+- repetitive
+- strain
+- constantly
+- spine
+- **cervical**
+- **inward**
+- **nerve**
+- **herniation**
+- pilates
+- posture
