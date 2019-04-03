@@ -164,3 +164,15 @@
 - optim
 - pend
 
+## Day 15
+- vey
+- cline
+- lute
+- dur
+- sit
+- gen
+- ciner
+- hibit
+- nox
+- sacr
+
