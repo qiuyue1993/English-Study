@@ -189,3 +189,11 @@
 - **herniation**
 - pilates
 - posture
+
+- **stark**  
+- tenfold
+- adolescent
+- **obesity**
+- epidemics
+- **plateaued**
+
