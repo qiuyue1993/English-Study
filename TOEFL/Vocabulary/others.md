@@ -164,29 +164,29 @@
 - rainfall
 - **flawed**
 
-- **cuddly**
+- **cuddly** 可爱的
 - seal
-- **limb**
-- **paralysis**
+- **limb** 
+- **paralysis** 麻痹；瘫痪
 - treadmill
 - **harness**
-- **gait**
+- **gait** 步态；步法
 - steep
 
 - **clog**
 - smog
 - **enact**
 - **foremost**
-- **in terms of**
+- **in terms of** 就...而言
 
 - repetitive
 - strain
 - constantly
 - spine
-- **cervical**
-- **inward**
-- **nerve**
-- **herniation**
+- **cervical** 颈椎；颈部的
+- **inward** 向内的
+- **nerve** 神经
+- **herniation** 症
 - pilates
 - posture
 
