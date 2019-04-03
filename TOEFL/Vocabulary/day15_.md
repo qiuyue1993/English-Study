@@ -1,3 +1,32 @@
 Day 15
 
-- 
+- awake
+- **cram**
+- code
+- code of laws
+- **codify**
+- commercial
+- commercialized
+- **compliment**
+- **complement**
+- concert
+- convey
+- deadly
+- decline
+- **decay**
+- descend
+- incline
+- devise
+- **contrive**
+- differentiate
+- dilute
+- **dismal**
+- display
+- donate
+- contribute
+- donation
+- **dubious**
+- durable
+- long-lasting
+- **dye**
+- **elm**
