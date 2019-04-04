@@ -1,3 +1,38 @@
 ## Day 16
 
-- 
+- absorption
+- accomplish
+- accomplishment
+- **adjunct**
+- appointment
+- approximate
+- archaeology
+- attribute
+- **eligible**
+- tribute
+- distribute
+- contribute
+- **barter**
+- trade
+- deal
+- **besiege**
+- boost
+- unprecedented
+- extent
+- boast
+- **bouquet**
+- broadcast
+- calm
+- **tranquil**
+- tranquilize
+- **soothe**
+- chief
+- collision
+- a collision of interests
+- conflict
+- **clash**
+- afflict
+- continent
+- mainland
+- **convict**
+- **criminate**
