@@ -197,3 +197,15 @@
 - epidemics
 - **plateaued**
 
+- pennywise
+- leatherface
+- **enduring**
+- get activated
+- **hormones**
+- widen
+- **pupil**
+- **palm**
+- the fight-and-flight responce
+- **subconsciously**
+- **neurotransmitters**
+- **get a kick out of**
