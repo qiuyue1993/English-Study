@@ -176,3 +176,14 @@
 - nox
 - sacr
 
+## Day 16
+- proxim
+- archae
+- siege
+- flict
+- vict
+- licit
+- **viscer**
+- integr
+- neur
+- peri
