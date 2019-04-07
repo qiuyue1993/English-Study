@@ -209,3 +209,8 @@
 - **subconsciously**
 - **neurotransmitters**
 - **get a kick out of**
+
+- **teleport**
+- **goggles**
+- **muon**
+- tomb
