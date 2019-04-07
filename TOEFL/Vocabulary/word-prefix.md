@@ -187,3 +187,13 @@
 - integr
 - neur
 - peri
+
+## Day 17
+- erg
+- **carn**
+- geo
+- grad
+- insul
+- milit
+- uni
+- hypo
