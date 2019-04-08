@@ -214,3 +214,11 @@
 - **goggles**
 - **muon**
 - tomb
+
+- **savage**
+- corrupt
+- tin-pot dictator
+- **recoil from**
+- **contentious**
+- constituency
+- inauguration
