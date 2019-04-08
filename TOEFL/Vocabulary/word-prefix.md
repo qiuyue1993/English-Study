@@ -197,3 +197,13 @@
 - milit
 - uni
 - hypo
+
+## Day 18
+- ac
+- **chron**
+- de
+- tol
+- graph
+- hydro
+- sight
+- intim
