@@ -207,3 +207,13 @@
 - hydro
 - sight
 - intim
+
+## Day 19
+- anti
+- di
+- **cern**
+- dom
+- spir
+- liber
+- scribe
+- **vor**
