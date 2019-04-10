@@ -217,3 +217,11 @@
 - liber
 - scribe
 - **vor**
+
+## Day 20
+- bound
+- tract
+- mand
+- turb
+- vis
+- **bell**
