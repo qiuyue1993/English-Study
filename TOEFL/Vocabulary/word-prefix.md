@@ -225,3 +225,14 @@
 - turb
 - vis
 - **bell**
+
+## Day 21
+- **greg**
+- **ambi**
+- **arthr**
+- calc
+- pro
+- feder
+- tag
+- plete
+- spect
