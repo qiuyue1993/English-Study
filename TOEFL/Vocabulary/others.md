@@ -227,3 +227,7 @@
 - doable
 - grain
 - **lead**
+
+- **ladder**
+- **burial**
+- territorial
