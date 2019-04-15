@@ -236,3 +236,11 @@
 - tag
 - plete
 - spect
+
+## Day 22
+- **fect**
+- glor
+- licen
+- pute
+- mare
+- vers
