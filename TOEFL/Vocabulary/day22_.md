@@ -1,3 +1,140 @@
 ## Day 22
 
-- 
+- algebra
+- **cascade**
+- character
+- chart
+- **uncharted**
+- circulation
+- **complement**
+- **compliment**
+- conductor
+- congress
+- **parliament**
+- congressional
+- couple
+- **orchestra**
+- coupon
+- **critique**
+- criticism
+- film critique
+- **cue**
+- hint
+- clue
+- **defect**
+- flaw
+- dehydrated
+- dehydrated climate
+- difference
+- disaster
+- catastrophe
+- **distinctive**
+- unique
+- drawback
+- disadvantage
+- shortcoming
+- drop
+- drop by
+- drop off
+- **evolve**
+- evolution
+- **expel**
+- discharge
+- impel
+- repel
+- compel
+- dispel
+- extract
+- distill
+- fancy
+- **peculiar**
+- **infancy**
+- fatal
+- deadly
+- **finalize**
+- finalize papers
+- **flask**
+- **fluctuate**
+- fluctuation
+- **frugal**
+- thrifty
+- frugality
+- genetics
+- **germinate**
+- **glorify**
+- **hawk**
+- eagle
+- humanity
+- mankind
+- iceberg
+- **jot**
+- jot down
+- kid
+- tease
+- kingdom
+- realm
+- **empire**
+- lasting
+- permanent
+- license
+- liquid
+- water vapor
+- litter
+- rubbish
+- machinery
+- magnitude
+- quantity
+- extent
+- **methanol**
+- seismic wave
+- microorganism
+- negative
+- passive
+- negative reaction
+- dove
+- newsletter
+- nightmare
+- observe
+- observable
+- **preserve**
+- **reserve**
+- **pertinent**
+- relevant
+- pin
+- **pin sb. down**
+- pioneer
+- **settler**
+- **plunge**
+- prime
+- chief
+- quit
+- abandon
+- depart
+- random
+- arbitrary
+- reference
+- **repute**
+- reputation
+- **disrepute**
+- ridge
+- rodeo
+- satellite
+- **satire**
+- irony
+- satirist
+- scarf
+- simplicity
+- **explicitly**
+- somewhat
+- rather
+- slightly
+- soothe
+- sophisticated
+- **spin**
+- whirl
+- spinet
+- spot
+- suite
+- suited
+- token
+- **token reward**
