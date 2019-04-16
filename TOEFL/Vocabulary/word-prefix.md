@@ -244,3 +244,15 @@
 - pute
 - mare
 - vers
+
+## Day 23
+- **acu**
+- mun
+- **mens**
+- alt
+- pauc
+- **horm**
+- rig
+- medi
+- cur
+- trans
