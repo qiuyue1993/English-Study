@@ -231,3 +231,10 @@
 - **ladder**
 - **burial**
 - territorial
+
+- **rule of thumb**
+- eyeball
+- **pupil**
+- **deaf**
+- **definitively**
+- bundle
