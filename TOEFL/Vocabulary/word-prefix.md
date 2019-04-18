@@ -256,3 +256,16 @@
 - medi
 - cur
 - trans
+
+## Day 24
+- **crit**
+- gest
+- dorm
+- eco
+- fid
+- govern
+- pair
+- **opt**
+- qui
+- sol
+
