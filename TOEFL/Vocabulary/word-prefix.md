@@ -269,3 +269,15 @@
 - qui
 - sol
 
+## Day 25
+- vent
+- portion
+- civil
+- **dign**
+- noc
+- leth
+- nov
+- oper
+- solu
+- topo
+
