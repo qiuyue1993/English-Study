@@ -1,0 +1,23 @@
+## Day 26
+
+- absolutely
+- acid
+- **agile**
+- an agile mind
+- agility
+- allocation
+- **attorney**
+- bias
+- prejudice
+- **bluff**
+- bluff sb. into doing
+- bookstore
+- **captive**
+- **cease**
+- ceremonial
+- ritual
+- charter
+- claim
+- club
+- concentration
+- dediduous
