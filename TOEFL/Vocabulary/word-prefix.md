@@ -281,3 +281,23 @@
 - solu
 - topo
 
+## Day 26
+- ile
+- capt
+- eco
+- in
+- seism
+- sequ
+- err
+
+## Day 27
+- cur
+- lud
+- ampl
+- **clam**
+- syn
+- order
+- tort
+- foli
+- neg
+- ultim
