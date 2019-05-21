@@ -301,3 +301,15 @@
 - foli
 - neg
 - ultim
+
+## Day 28
+- orm
+- ben
+- circ
+- stance
+- dent
+- dif
+- em
+- **fabric**
+- in
+- **prud**
