@@ -238,3 +238,10 @@
 - **deaf**
 - **definitively**
 - bundle
+
+- contemporary review
+- fortune
+- **indomitable**
+- **governess**
+- **outwardly**
+- **plucky**
