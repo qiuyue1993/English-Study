@@ -5,6 +5,7 @@
 **Question**: four-day workweek
 
 **Sample response**:
+
 The passage **argues that** four-day work week **will benefit** companies, the whole economy, and individuals. But in the lecture, the professor **holds a totally different view that** no one will **be beneficial from** the new work week.
 
 Firstly, the passage says that companies **will** get more profits for **employees can work more effectively**. **However**, the lecture **points out** that four-day workweek will **lead to spending more**. **That is because** companies **have to** spend more money on training, **medical benefits**, office positions, even new computers.
