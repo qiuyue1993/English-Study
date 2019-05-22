@@ -1,3 +1,80 @@
 ## Day 28
 
-- 
+- abnormal
+- absolute
+- air
+- atomosphere
+- in the air
+- **atrophy**
+- shrinkage
+- awkward
+- **backlighting**
+- **benign**
+- **bog**
+- swamp
+- celebrated
+- celebrity
+- center
+- challenge
+- **chew**
+- chewing-gum
+- chew over
+- circuit
+- short circuit
+- circumstance
+- collect
+- accumulate
+- assemble
+- constitution
+- conventional
+- traditional
+- customary
+- **cram**
+- pack
+- date
+- dentist
+- **diffuse**
+- disappoint
+- disease
+- viral disease
+- **embody**
+- even
+- **fabricate**
+- construct
+- manufacture
+- **foment**
+- geometry
+- **gilding**
+- gonna
+- **hydrothermal**
+- **immunity**
+- exemption
+- initial
+- **innate**
+- inborn
+- insufficient
+- intrude
+- **Jupiter**
+- league
+- alliance
+- lunar
+- match
+- meager
+- deficient
+- mechanism
+- defense mechanism
+- **mesmerize**
+- **metropolis**
+- **metropolitan**
+- mobile
+- nonverbal
+- **obsess**
+- obese
+- obsession
+- overview
+- perfume
+- **pique**
+- **provoke**
+- **plaque**
+- playwright
+- proficient
