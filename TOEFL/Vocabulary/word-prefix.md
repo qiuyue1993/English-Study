@@ -313,3 +313,12 @@
 - **fabric**
 - in
 - **prud**
+
+## Day 19
+- **arbitr**
+- choreo
+- ex
+- noct
+- plic
+- speci
+- nomin
