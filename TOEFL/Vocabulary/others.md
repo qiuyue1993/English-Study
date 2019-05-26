@@ -252,3 +252,7 @@
 - **inhibit**
 - disinhibition
 - **confront**
+
+- **attest**
+- **conviction**
+- self-reliance
