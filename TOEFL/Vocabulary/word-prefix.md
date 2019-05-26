@@ -314,7 +314,7 @@
 - in
 - **prud**
 
-## Day 19
+## Day 29
 - **arbitr**
 - choreo
 - ex
