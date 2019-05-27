@@ -6,3 +6,57 @@
 - ample
 - abundant
 - arbitrary
+- argument
+- **asset**
+- assignment
+- **bandanna**
+- beat
+- bison
+- **camouflage**
+- canyon
+- capacity
+- chlorine
+- choreographer
+- chunk
+- a chunk of
+- **clutch**
+- codify
+- commerce
+- consistency
+- constant
+- instant
+- **continuity**
+- copper
+- **crater**
+- crucial
+- cubism
+- democratic
+- democratic party
+- **deposit**
+- **deprive**
+- take away
+- **disciple**
+- discount
+- **at a discount**
+- dozen
+- dozens of
+- exchange
+- expand
+- expansion
+- feeble
+- fundamental
+- **gallop**
+- garbage
+- gorgeous
+- **incapacitate**
+- indigestion
+- **lethal**
+- list
+- reading list
+- literature
+- **membrane**
+- **meteorite**
+- **neglect**
+- **nocturnal**
+- nominate
+
