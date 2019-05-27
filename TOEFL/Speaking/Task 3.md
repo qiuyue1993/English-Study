@@ -2,7 +2,7 @@
 
 ### Question
 
-Campus sculture.
+Campus sculpture.
 
 ### Sample
 
