@@ -256,3 +256,6 @@
 - **attest**
 - **conviction**
 - self-reliance
+
+- **irrational**
+- rational
