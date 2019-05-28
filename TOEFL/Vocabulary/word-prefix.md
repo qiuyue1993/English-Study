@@ -322,3 +322,13 @@
 - plic
 - speci
 - nomin
+
+## Day 30
+- quire
+- aero
+- chole
+- ward
+- harmon
+- lingu
+- miss
+- octo
