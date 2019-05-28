@@ -59,4 +59,38 @@
 - **neglect**
 - **nocturnal**
 - nominate
+- **notch**
+- objective
+- outcome
+- particular
+- permanent
+- permanent residence
+- **persuasive**
+- **pigment**
+- **piracy**
+- **pivotal**
+- pose
+- pottery
+- predominantly
+- range
+- extent
+- **reliance**
+- **replicate**
+- **rumor**
+- **saturation**
+- **scrub**
+- seashore
+- similar
+- skeleton
+- sneaker
+- spare
+- specific
+- **stratum**
+- stuff
+- **supplant**
+- symbolize
+- **wick**
+- wonder
+- no wonder
+- **wander**
 
