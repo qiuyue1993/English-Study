@@ -259,3 +259,7 @@
 
 - **irrational**
 - rational
+
+- incentive
+- get rid of
+- oppose
