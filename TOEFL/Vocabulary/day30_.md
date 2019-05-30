@@ -1,3 +1,64 @@
 ## Day 30
 
-- 
+- acquire
+- capital
+- **aerobic**
+- **amid**
+- **ammonia**
+- **anthropology**
+- **arithmetic**
+- artificial
+- synthetic
+- bake
+- **blip**
+- brittle
+- fragile
+- **caribou**
+- cautious
+- discreet
+- prudent
+- **precaution**
+- channel
+- **cholesteral**
+- coexist
+- **constrain**
+- constraint
+- counselor
+- court
+- the Supreme Court
+- **courtship**
+- credit
+- **be credit with**
+- crystal
+- demonstrate
+- downward
+- upward
+- drop downward
+- enclose
+- **entrepreneurial**
+- **equator**
+- evidence
+- be evidenced in
+- **explicit**
+- implicit
+- generation
+- spontaneous generation
+- glimpse
+- graviational
+- graviational force
+- graviational field
+- Jupiter
+- be captured by
+- grocery
+- **hail**
+- **door-to-door**
+- harmony
+- in harmony with
+- **haven**
+- hook
+- hover
+- wander
+- identification
+- **immense**
+- **impart**
+- convery
