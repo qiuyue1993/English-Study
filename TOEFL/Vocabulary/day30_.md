@@ -61,4 +61,81 @@
 - identification
 - **immense**
 - **impart**
-- convery
+- convey
+- **inception**
+- **rural**
+- **insanity**
+- sanity
+- interaction
+- interaction with
+- lengthen
+- extend
+- linguistic
+- **lumber**
+- timber
+- luminous
+- **magnify**
+- **meridian**
+- mind
+- keep in mind
+- never mind
+- have in mind
+- mineral
+- mineral composition
+- mission
+- delegation
+- multiple
+- various
+- **manifold**
+- octopus
+- **outcry**
+- protest
+- outcry against
+- outcry about
+- outcry over
+- **painstaking**
+- patch
+- **scrap**
+- stripe
+- pepper
+- perceive
+- **pronounced**
+- **conspicuous**
+- **provincialism**
+- narrow-minded provincialism
+- pump
+- recruitment
+- **remainder**
+- **left over**
+- **retain**
+- reverse
+- segment
+- **sprawl**
+- spring
+- **leap**
+- stadium
+- playground
+- storage
+- warehouse
+- storage battery
+- **submarine**
+- telescope
+- tragic
+- miserable
+- **uppermost**
+- urge
+- impel
+- urgent
+- urgency
+- **vascular**
+- muscular
+- vegetarian
+- verify
+- **wit**
+- be at one's wits' end
+- withstand
+- tolerate
+- endure
+
+
+
